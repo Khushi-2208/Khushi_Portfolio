@@ -174,7 +174,7 @@ export default function Home() {
       live: "https://goonj-iota.vercel.app/",
       glowColor: "rgba(200,90,50,0.3)",
       borderColor: "hover:border-brand-accent/70",
-      image: "/projects/goonj.png"
+      image: "./projects/goonj.png"
     },
     {
       title: "WDC Induction Portal",
@@ -187,7 +187,7 @@ export default function Home() {
       live: "https://wdc-induction-portal.vercel.app/",
       glowColor: "rgba(16,185,129,0.3)",
       borderColor: "hover:border-emerald-500/70",
-      image: "/projects/wdc.png"
+      image: "./projects/wdc.png"
     },
     {
       title: "GriefBridge",
@@ -200,7 +200,7 @@ export default function Home() {
       live: "https://grief-bridge-y2ln.vercel.app/",
       glowColor: "rgba(139,92,246,0.3)",
       borderColor: "hover:border-violet-500/70",
-      image: "/projects/grief.png"
+      image: "./projects/grief.png"
     },
     {
       title: "Awaaz Shield",
@@ -213,7 +213,7 @@ export default function Home() {
       live: "https://awaaz-shield-ja3m.vercel.app/",
       glowColor: "rgba(6,182,212,0.3)",
       borderColor: "hover:border-cyan-500/70",
-      image: "/projects/awaazshield.png"
+      image: "./projects/awaazshield.png"
     },
     {
       title: "Cortex-AI",
@@ -226,7 +226,7 @@ export default function Home() {
       live: "https://cortex-ai-xjgb.vercel.app/",
       glowColor: "rgba(139,92,246,0.3)",
       borderColor: "hover:border-violet-500/70",
-      image: "/projects/cortex.png"
+      image: "./projects/cortex.png"
     },
     {
       title: "EcoMindAI",
@@ -239,7 +239,7 @@ export default function Home() {
       live: "https://ecomind-ai-nu.vercel.app/",
       glowColor: "rgba(16,185,129,0.3)",
       borderColor: "hover:border-emerald-500/70",
-      image: "/projects/ecomind.png"
+      image: "./projects/ecomind.png"
     }
   ];
 

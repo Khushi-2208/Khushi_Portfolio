@@ -1,2 +1,5 @@
-// Deprecated - Project migrated to Next.js
-export default {};
+import { defineConfig } from "vite";
+
+export default defineConfig({
+    base: "/Khushi_Portfolio/",
+});
