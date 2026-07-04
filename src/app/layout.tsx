@@ -24,7 +24,7 @@ const mono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Khushi Kumari — Creative Web Engineer",
+  title: "Khushi Kumari Portfolio",
   description: "Portfolio of Khushi Kumari, B.Tech ECE student at NIT Patna. Specializing in AI-powered voice-first interfaces, full-stack systems, and clean architectural design.",
   keywords: ["Khushi Kumari", "NIT Patna", "Web Developer", "ECE", "Goonj", "WDC Portal", "Full Stack Developer", "India"],
   authors: [{ name: "Khushi Kumari" }],
