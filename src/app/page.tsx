@@ -476,7 +476,7 @@ export default function Home() {
 
             {/* Subtitle / Role lists separator */}
             <p className="font-mono text-xs text-stone-400 tracking-wide leading-relaxed mb-4 uppercase">
-              Web Engineer &bull; Full Stack Developer &bull; ECE Student at NIT Patna &bull; Competitive Programmer &bull; LeetCode: Max Rating 1563 (400+ solved) &bull; CodeChef: Max Rating 1416 (125+ solved)
+              Web Engineer &bull; Full Stack Developer &bull; ECE Student at NIT Patna &bull; Competitive Programmer &bull; LeetCode: Max Rating 1650 (450+ solved) &bull; CodeChef: Max Rating 1489 (150+ solved)
             </p>
 
             <div className="font-sans text-stone-400 space-y-6 text-sm md:text-base leading-relaxed mb-12">
